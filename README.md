@@ -110,3 +110,16 @@ You will need to configure environment variables for the frontend to run.
 **1. Frontend (`/frontend/.env`):**
 ```sh
 VITE_API_URL=[http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+## 👥 The Team
+This project was developed collaboratively by:
+* **Pavan Kumar K**
+* **Darshan Kumar A**
+* **Kashish Shaikh**
+* **Lavanya S**
+
+## 🏆 Achievements & Publications
+
+* 📄 **Research Paper:** Presented *"Comparative Analysis of AI Based Phishing Website Detection"* at the 2nd International Symposium on Collaborative Informatics (ISCI-2025), Davangere.
+* 🥇 **Winner:** Project Exhibition 2025-26, Dept of AI & DS, KSSEM.
+* 🥉 **3rd Place:** IEEE National Level Project Exhibition at CMRIT.
